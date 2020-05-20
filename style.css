@@ -4,15 +4,15 @@ input[type="button"]:hover {
 }
 
 input[type="button"].arit {
-    background-color: maroon;
+    background-color: #7d7b7b;
 }
 
 input[type="button"].igual {
-    background-color: green;
+    background-color: #3d403d;
 }
 
 input[type="button"].clear {
-    background-color: orangered;
+    background-color: #777988;
 }
 
 form {
@@ -20,9 +20,11 @@ form {
 }
 
 input[type="text"] {
-    background-color: black;
+    background-color: #a3a7ab;
     border: 0px;
-    width: 250px;
+    width: 210px;
+    padding-right: 20px;
+    padding-left: 20px;
     height: 40px;
     font-size: 20px;
     color: white;
@@ -42,16 +44,16 @@ input[name="txtcaja2"] {
 
 input[type="button"] {
     font-size: 18px;
-    font-weight: lighter;
-    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
     width: 60px;
     border: 0px;
     height: 60px;
     color: white;
-    background-color: blue;
+    background-color: #b9b9bb;
     margin-bottom: 5px;
+    border-radius: 20%;
 }
 
 body {
     background-color: #f1f1f1;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
 }
