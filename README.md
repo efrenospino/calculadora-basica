@@ -3,8 +3,15 @@
 Esta es una app de ejemplo para la clase de Tecnologías Emergentes para el desarrollo de Software de la Universidad del Norte, 2020.
 
 ```
-El proyecto consiste en una calculadora, la cual puede hacer las funciones basicas, además del
-factorial
+El proyecto consiste en una calculadora, la cual puede hacer las funciones basicas, además del factorial.
 ```
 
-![Esta es una captura de la Calculadora](img/screenshot.png)
+![Esta es una captura de la Calculadora](img/screenshot.PNG)
+
+
+```
+El proyecto además consta de un footer y header.
+```
+![Footer](img/footer.PNG)
+
+![Header](img/header.PNG)
