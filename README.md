@@ -6,7 +6,7 @@ Esta es una app de ejemplo para la clase de Tecnologías Emergentes para el desa
 El proyecto consiste en una calculadora, la cual puede hacer las funciones basicas, además del factorial.
 ```
 
-![Esta es una captura de la Calculadora](img/screenshot.PNG)
+![Esta es una captura de la Calculadora](img/screenshot.png)
 
 
 ```
