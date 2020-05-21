@@ -57,3 +57,17 @@ body {
     background-color: #f1f1f1;
     font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
 }
+
+footer{
+    text-align: center;
+}
+h4{
+    font-style: italic;
+}
+
+.footer2{
+    margin-top: 0px;
+}
+.footer1{
+    margin-bottom: 0px;
+}
